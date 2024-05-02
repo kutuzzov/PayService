@@ -24,6 +24,6 @@
 ```
 Скрин работы приложения в окне консоли:
 
-![](https://github.com/kutuzzov/PayService/blob/main/ps.png)
+![](https://github.com/kutuzzov/PayService/blob/main/images/ps.png)
 
 ## Инструкция по сборке проекта
