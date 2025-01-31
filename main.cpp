@@ -21,7 +21,7 @@ int main() {
             std::cin.clear();
             std::cin.ignore();
 
-        } while ((ch != 'N' && ch != 'n'));
+        } while ((ch != 'Y' && ch != 'y'));
         
         if (ch == 'N' || ch == 'n') {
             exit(0);
