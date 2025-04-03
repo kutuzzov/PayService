@@ -1,14 +1,14 @@
 #include "payment.h"
 #include "common.h"
+#include <windows.h>
 
 using namespace std::string_view_literals;
 
 int main() {
 #ifdef _WIN32
-    system("chcp 1251");
-    std::cout << std::endl;
+    SetConsoleOutputCP(1251);
 #endif
-
+    
     std::string answer;
 
     while (true) {
@@ -33,7 +33,7 @@ int main() {
         catch (const std::exception& e) {
             std::cerr << "Ошибка: "sv << e.what() << std::endl;
             std::cin.clear(); // Сброс флага ошибки ввода
-            std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n'); // Очистка буфера ввода
+            std::cin.ignore(); // Очистка буфера ввода
         }
 
         return 0;
