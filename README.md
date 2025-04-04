@@ -32,6 +32,10 @@ Update: добавлен код для телеграм-бота на python, п
 
 ![](https://github.com/kutuzzov/PayService/blob/main/images/ps.png)
 
+Скрины работы бота в Telegram:
+
+![](https://github.com/kutuzzov/PayService/blob/main/images/photo_2025-04-04_09-59-14.jpg) ![](https://github.com/kutuzzov/PayService/blob/main/images/photo_2025-04-04_09-59-15.jpg) ![](https://github.com/kutuzzov/PayService/blob/main/images/photo_2025-04-04_09-59-16.jpg)
+
 ## Сборка и установка
 Сборка с помощью любой IDE либо сборка из командной строки
 
