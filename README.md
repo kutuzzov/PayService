@@ -34,7 +34,7 @@ Update: добавлен код для телеграм-бота на python, п
 
 Скрины работы бота в Telegram:
 
-![](https://github.com/kutuzzov/PayService/blob/main/images/photo_2025-04-04_09-59-14.jpg) ![](https://github.com/kutuzzov/PayService/blob/main/images/photo_2025-04-04_09-59-15.jpg) ![](https://github.com/kutuzzov/PayService/blob/main/images/photo_2025-04-04_09-59-16.jpg)
+<img src="images/photo_2025-04-04_09-59-14.jpg" alt="Пример изображения" width="100"> <img src="images/photo_2025-04-04_09-59-15.jpg" alt="Пример изображения" width="100"> <img src="images/photo_2025-04-04_09-59-16.jpg" alt="Пример изображения" width="100">
 
 ## Сборка и установка
 Сборка с помощью любой IDE либо сборка из командной строки
